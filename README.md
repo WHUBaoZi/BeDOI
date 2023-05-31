@@ -1,2 +1,5 @@
-# BeDOI
-This is the implementation of paper “Benchmarks for Determining Overlapping Images with Photogrammetric Information”
+# Setup
+## Data
+The published dataset BeDOI are currently available at Baidu Cloud, you can download it via (...) and the extraction code: (...).
+
+## Dataset Format
