@@ -12,4 +12,4 @@ The published dataset BeDOI are currently available at Baidu Cloud, you can down
   |`ImageData/CombinedData/num1_num2_[name]_xxxx.jpg` | -'num1' represents the index of the image in the CombinedData, <br>-[name] represents the name of the separated dataset where the image is located, <br>-'num2' represents the index of the image in the separated dataset. |
   | `ImageData/[name]/num1_[name]_xxxx.jpg` | -'num1' represents the index of the image in the separated dataset, <br>-[name] represents the name of this dataset. |
   | `StandardMatchingResult/[name]/[name]_MatchResultSorted.txt` | -Standard matching result of the separated dataset, <br>-[name] is the name of this dataset. |
-  | `StandardMatchingResult/[name]/[name]_MatchResultSortedPicture` | -Image overlap diagram of the separated dataset, <br>-[name] is the name of this dataset. |
+  | `StandardMatchingResult/[name]/[name]_MatchResultSortedPicture.png` | -Image overlap diagram of the separated dataset, <br>-[name] is the name of this dataset. |
